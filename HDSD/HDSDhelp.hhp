@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=HDSDhelp.chm
+Contents file=HDSDhelp.hhc
+Index file=HDSDhelp.hhk
+Binary Index=Yes
+Language=0x0409
+Title=Huong dan su dung
+Error log file=Errlog.txt
+Default Window=main
+
+[WINDOWS]
+main="Huong dan su dung","HDSDhelp.hhc","HDSDhelp.hhk","HDSD.mht","",,,,,0x41520,240,0x184E,[262,184,762,584],,,,0,0,0,0
+
+[FILES]
+HDSD.mht
+
